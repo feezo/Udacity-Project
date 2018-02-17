@@ -4,19 +4,19 @@ body{
 
   }
 .container{
-  border:1px solid gold;
+  border:1px solid #FFD700;
   padding: 5px;
   margin: 5px;
   position: absolute;
-  top: 45%;
+  top: 50%;
   left: 50%;
   margin-right: -50%;
   transform: translate(-40%, -40%);
   width: 300px;
-  box-shadow: 5px 5px 10px green;
+  box-shadow: 5px 5px 10px #008000;
 }
 h3{
-  color: red;
+  color: #4169E1;
 }
 img{
   width: 300px;
@@ -24,7 +24,7 @@ img{
 
 }
 .facts{
-  border: 1px solid grey;
+  border: 1px solid #808080;
   padding: 20px;
   margin-top: 10px;
 
